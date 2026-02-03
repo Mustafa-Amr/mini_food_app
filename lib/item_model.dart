@@ -12,6 +12,9 @@ class ItemModel {
     ItemModel(name: 'Beef bacon', image: 'assets/images/image 5.png'),
     ItemModel(name: 'Beef burger', image: 'assets/images/image 5.png'),
     ItemModel(name: 'Cheese burger', image: 'assets/images/image 3.png'),
+    ItemModel(name: ' burger', image: 'assets/images/Burger.jpeg'),
+    ItemModel(name: 'Pizza', image: 'assets/images/download.jpeg'),
+    ItemModel(name: 'Cola', image: 'assets/images/download (1).jpeg'),
 
   ];
 }
